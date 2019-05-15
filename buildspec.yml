@@ -4,3 +4,6 @@ phases:
   install:
     commands:
       - pwd
+artifacts:
+  files:
+    - test.py
