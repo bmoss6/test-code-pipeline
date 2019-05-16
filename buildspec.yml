@@ -8,3 +8,4 @@ artifacts:
   files:
     - test.py
     - appspec.yml
+    - run_script.sh
