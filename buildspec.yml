@@ -4,6 +4,7 @@ phases:
   install:
     commands:
       - pwd
+      - python unittest.py
 artifacts:
   files:
     - test.py
